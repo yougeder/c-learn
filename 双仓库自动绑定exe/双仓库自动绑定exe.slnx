@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="双仓库自动绑定exe/双仓库自动绑定exe.vcxproj" Id="d006dd09-c326-4d13-9ee8-ff810e3f94d7" />
+</Solution>

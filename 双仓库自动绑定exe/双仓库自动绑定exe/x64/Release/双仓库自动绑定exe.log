@@ -1,0 +1,8 @@
+﻿  双仓库自动绑定exe.c
+I:\Desktop\C语言学习\双仓库自动绑定exe\双仓库自动绑定exe\双仓库自动绑定exe.c(71,12): warning C4566: 由通用字符名称“\u2705”表示的字符不能在当前代码页(936)中表示出来
+  正在生成代码
+  1 of 9 functions (11.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  双仓库自动绑定exe.vcxproj -> I:\Desktop\C语言学习\双仓库自动绑定exe\x64\Release\双仓库自动绑定exe.exe
