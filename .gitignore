@@ -1,0 +1,16 @@
+# 忽略 Keil 编译生成的文件
+*.o
+*.d
+*.crf
+*.axf
+*.hex
+*.bin
+*.lst
+*.map
+*.dep
+*.bak
+*.lnp
+*.sct
+*.scvd
+
+
